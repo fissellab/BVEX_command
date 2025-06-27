@@ -1,0 +1,1541 @@
+[1745458188][lens_adapter.c][runCommand] mf -80
+OK
+DONE-80,0
+
+[1745458188][lens_adapter.c][initLensAdapter] Focus moved to desired default position.
+[1745458188][lens_adapter.c][initLensAdapter] Focus at 80 counts below infinity:
+[1745458189][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:46
+
+[1745458189][lens_adapter.c][initLensAdapter] Default focus value: 46
+[1745458192][lens_adapter.c][runCommand] pa
+OK
+0,f28
+
+[1745458192][lens_adapter.c][runCommand] in camera params, curr aper is: 28
+[1745458192][lens_adapter.c][beginAutoFocus] Beginning the auto-focus process...
+[1745458192][lens_adapter.c][beginAutoFocus] Auto-focusing parameters: start = -54, stop = 101, step = 5.
+[1745458193][lens_adapter.c][runCommand] mf -100
+OK
+DONE-100,0
+
+[1745458193][lens_adapter.c][beginAutoFocus] Focus moved to beginning of auto-focusing range.
+[1745458194][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:-54
+
+[1745458196][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus -54 has value 924.
+[1745458197][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus -54 has value 936.
+[1745458199][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus -54 has value 932.
+[1745458199][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus -54 is 936.
+[1745458200][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458200][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458201][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:-49
+
+[1745458202][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus -49 has value 960.
+[1745458203][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus -49 has value 944.
+[1745458205][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus -49 has value 952.
+[1745458205][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus -49 is 960.
+[1745458206][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458206][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458207][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:-44
+
+[1745458208][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus -44 has value 960.
+[1745458209][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus -44 has value 968.
+[1745458210][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus -44 has value 956.
+[1745458210][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus -44 is 968.
+[1745458211][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458211][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458212][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:-39
+
+[1745458214][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus -39 has value 976.
+[1745458215][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus -39 has value 964.
+[1745458216][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus -39 has value 952.
+[1745458216][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus -39 is 976.
+[1745458217][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458217][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458218][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:-34
+
+[1745458220][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus -34 has value 968.
+[1745458221][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus -34 has value 972.
+[1745458222][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus -34 has value 972.
+[1745458222][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus -34 is 972.
+[1745458223][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458223][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458224][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:-29
+
+[1745458226][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus -29 has value 988.
+[1745458227][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus -29 has value 992.
+[1745458228][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus -29 has value 984.
+[1745458228][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus -29 is 992.
+[1745458229][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458229][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458230][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:-24
+
+[1745458232][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus -24 has value 984.
+[1745458233][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus -24 has value 984.
+[1745458234][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus -24 has value 988.
+[1745458234][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus -24 is 988.
+[1745458235][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458235][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458236][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:-19
+
+[1745458237][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus -19 has value 996.
+[1745458239][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus -19 has value 992.
+[1745458240][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus -19 has value 1003.
+[1745458240][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus -19 is 1003.
+[1745458241][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458241][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458242][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:-14
+
+[1745458243][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus -14 has value 1008.
+[1745458245][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus -14 has value 1003.
+[1745458246][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus -14 has value 996.
+[1745458246][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus -14 is 1008.
+[1745458247][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458247][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458248][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:-9
+
+[1745458249][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus -9 has value 1008.
+[1745458251][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus -9 has value 1008.
+[1745458252][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus -9 has value 1000.
+[1745458252][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus -9 is 1008.
+[1745458253][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458253][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458254][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:-4
+
+[1745458255][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus -4 has value 1016.
+[1745458256][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus -4 has value 1016.
+[1745458258][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus -4 has value 1003.
+[1745458258][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus -4 is 1016.
+[1745458259][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458259][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458260][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:1
+
+[1745458261][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 1 has value 1011.
+[1745458262][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 1 has value 1036.
+[1745458264][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 1 has value 1019.
+[1745458264][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 1 is 1036.
+[1745458265][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458265][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458266][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:6
+
+[1745458267][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 6 has value 1019.
+[1745458268][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 6 has value 1019.
+[1745458269][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 6 has value 1016.
+[1745458269][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 6 is 1019.
+[1745458270][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458270][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458271][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:11
+
+[1745458273][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 11 has value 1016.
+[1745458274][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 11 has value 1011.
+[1745458275][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 11 has value 1024.
+[1745458275][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 11 is 1024.
+[1745458276][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458276][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458277][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:16
+
+[1745458279][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 16 has value 1019.
+[1745458280][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 16 has value 1024.
+[1745458281][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 16 has value 1019.
+[1745458281][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 16 is 1024.
+[1745458282][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458282][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458283][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:21
+
+[1745458285][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 21 has value 1019.
+[1745458286][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 21 has value 1024.
+[1745458287][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 21 has value 1016.
+[1745458287][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 21 is 1024.
+[1745458288][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458288][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458289][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:26
+
+[1745458290][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 26 has value 1019.
+[1745458292][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 26 has value 1019.
+[1745458293][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 26 has value 1032.
+[1745458293][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 26 is 1032.
+[1745458294][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458294][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458295][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:31
+
+[1745458296][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 31 has value 1096.
+[1745458298][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 31 has value 1148.
+[1745458299][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 31 has value 1128.
+[1745458299][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 31 is 1148.
+[1745458300][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458300][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458301][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:36
+
+[1745458302][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 36 has value 1284.
+[1745458303][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 36 has value 1376.
+[1745458305][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 36 has value 1364.
+[1745458305][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 36 is 1376.
+[1745458306][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458306][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458307][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:41
+
+[1745458308][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 41 has value 1484.
+[1745458309][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 41 has value 1504.
+[1745458311][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 41 has value 1400.
+[1745458311][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 41 is 1504.
+[1745458312][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458312][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458313][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:46
+
+[1745458314][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 46 has value 1804.
+[1745458315][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 46 has value 1920.
+[1745458316][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 46 has value 1768.
+[1745458316][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 46 is 1920.
+[1745458317][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458317][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458318][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:51
+
+[1745458320][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 51 has value 2224.
+[1745458321][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 51 has value 2264.
+[1745458322][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 51 has value 2172.
+[1745458322][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 51 is 2264.
+[1745458323][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458323][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458324][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:56
+
+[1745458326][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 56 has value 2652.
+[1745458327][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 56 has value 2432.
+[1745458328][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 56 has value 2272.
+[1745458328][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 56 is 2652.
+[1745458329][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458329][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458330][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:61
+
+[1745458332][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 61 has value 2624.
+[1745458333][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 61 has value 2424.
+[1745458334][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 61 has value 2720.
+[1745458334][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 61 is 2720.
+[1745458335][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458335][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458336][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:66
+
+[1745458338][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 66 has value 2328.
+[1745458339][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 66 has value 2192.
+[1745458340][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 66 has value 2308.
+[1745458340][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 66 is 2328.
+[1745458341][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458341][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458342][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:71
+
+[1745458343][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 71 has value 2000.
+[1745458345][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 71 has value 1884.
+[1745458346][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 71 has value 1944.
+[1745458346][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 71 is 2000.
+[1745458347][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458347][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458348][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:76
+
+[1745458349][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 76 has value 1392.
+[1745458351][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 76 has value 1264.
+[1745458352][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 76 has value 1415.
+[1745458352][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 76 is 1415.
+[1745458353][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458353][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458354][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:81
+
+[1745458355][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 81 has value 2400.
+[1745458356][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 81 has value 2320.
+[1745458358][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 81 has value 2212.
+[1745458358][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 81 is 2400.
+[1745458359][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458359][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458360][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:86
+
+[1745458361][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 86 has value 1652.
+[1745458362][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 86 has value 1772.
+[1745458364][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 86 has value 1684.
+[1745458364][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 86 is 1772.
+[1745458365][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458365][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458366][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:91
+
+[1745458367][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 91 has value 1420.
+[1745458368][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 91 has value 1380.
+[1745458369][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 91 has value 1316.
+[1745458369][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 91 is 1420.
+[1745458370][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458370][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458371][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:96
+
+[1745458373][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 96 has value 1064.
+[1745458374][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 96 has value 1216.
+[1745458375][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 96 has value 1204.
+[1745458375][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 96 is 1216.
+[1745458376][lens_adapter.c][runCommand] mf 5
+OK
+DONE5,0
+
+[1745458376][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458377][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:101
+
+[1745458379][camera.c][doCameraAndAstrometry] Brightest blob for photo 1 at focus 101 has value 1044.
+[1745458380][camera.c][doCameraAndAstrometry] Brightest blob for photo 2 at focus 101 has value 1052.
+[1745458381][camera.c][doCameraAndAstrometry] Brightest blob for photo 3 at focus 101 has value 1076.
+[1745458381][camera.c][doCameraAndAstrometry] Brighest blob among 3 photos for focus 101 is 1076.
+[1745458381][lens_adapter.c][calculateOptimalFocus] The largest flux found is 2467.206.
+[1745458381][lens_adapter.c][calculateOptimalFocus] Focus position corresponding to maximum brightness is 65.129. The nearest integer to this value is 65.000.
+[1745458382][lens_adapter.c][runCommand] mf -36
+OK
+DONE-36,0
+
+[1745458382][lens_adapter.c][shiftFocus] Focus moved to next focus position in auto-focusing range.
+[1745458383][lens_adapter.c][runCommand] fp
+OK
+fmin:-739  fmax:126  current:65
+
+[1745458385][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:03
+[1745458387][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458387][camera.c][doCamreaAndAstrometry] Camera completed one round in 2063.260416 msec.
+[1745458388][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:07
+[1745458390][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458390][camera.c][doCamreaAndAstrometry] Camera completed one round in 1570.066688 msec.
+[1745458391][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:10
+[1745458393][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458393][camera.c][doCamreaAndAstrometry] Camera completed one round in 1389.598464 msec.
+[1745458394][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:13
+[1745458396][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458396][camera.c][doCamreaAndAstrometry] Camera completed one round in 1545.188608 msec.
+[1745458397][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:16
+[1745458399][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458399][camera.c][doCamreaAndAstrometry] Camera completed one round in 1553.560832 msec.
+[1745458400][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:19
+[1745458402][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458402][camera.c][doCamreaAndAstrometry] Camera completed one round in 1659.733760 msec.
+[1745458403][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:22
+[1745458405][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458405][camera.c][doCamreaAndAstrometry] Camera completed one round in 1604.306688 msec.
+[1745458406][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:25
+[1745458408][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458408][camera.c][doCamreaAndAstrometry] Camera completed one round in 1897.441536 msec.
+[1745458409][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:28
+[1745458411][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458411][camera.c][doCamreaAndAstrometry] Camera completed one round in 1261.425152 msec.
+[1745458412][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:31
+[1745458414][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458414][camera.c][doCamreaAndAstrometry] Camera completed one round in 1849.227776 msec.
+[1745458415][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:34
+[1745458417][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458417][camera.c][doCamreaAndAstrometry] Camera completed one round in 1512.083712 msec.
+[1745458418][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:37
+[1745458420][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458420][camera.c][doCamreaAndAstrometry] Camera completed one round in 1242.865152 msec.
+[1745458421][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:40
+[1745458423][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458423][camera.c][doCamreaAndAstrometry] Camera completed one round in 1791.453440 msec.
+[1745458424][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:43
+[1745458426][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458426][camera.c][doCamreaAndAstrometry] Camera completed one round in 1954.982144 msec.
+[1745458427][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:46
+[1745458430][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458430][camera.c][doCamreaAndAstrometry] Camera completed one round in 2370.277632 msec.
+[1745458431][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:50
+[1745458433][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458433][camera.c][doCamreaAndAstrometry] Camera completed one round in 1278.286848 msec.
+[1745458434][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:53
+[1745458436][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458436][camera.c][doCamreaAndAstrometry] Camera completed one round in 1908.927232 msec.
+[1745458437][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:56
+[1745458439][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458439][camera.c][doCamreaAndAstrometry] Camera completed one round in 1294.518272 msec.
+[1745458440][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:33:59
+[1745458442][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458442][camera.c][doCamreaAndAstrometry] Camera completed one round in 1538.188544 msec.
+[1745458443][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:02
+[1745458445][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458445][camera.c][doCamreaAndAstrometry] Camera completed one round in 1941.140992 msec.
+[1745458446][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:05
+[1745458448][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458448][camera.c][doCamreaAndAstrometry] Camera completed one round in 1597.657088 msec.
+[1745458449][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:08
+[1745458451][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458451][camera.c][doCamreaAndAstrometry] Camera completed one round in 1749.751808 msec.
+[1745458452][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:11
+[1745458454][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458454][camera.c][doCamreaAndAstrometry] Camera completed one round in 1085.222656 msec.
+[1745458455][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:14
+[1745458457][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458457][camera.c][doCamreaAndAstrometry] Camera completed one round in 1875.288576 msec.
+[1745458458][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:17
+[1745458460][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458460][camera.c][doCamreaAndAstrometry] Camera completed one round in 1784.597248 msec.
+[1745458461][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:20
+[1745458463][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458463][camera.c][doCamreaAndAstrometry] Camera completed one round in 1061.961472 msec.
+[1745458464][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:23
+[1745458466][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458466][camera.c][doCamreaAndAstrometry] Camera completed one round in 1967.587840 msec.
+[1745458467][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:26
+[1745458469][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458469][camera.c][doCamreaAndAstrometry] Camera completed one round in 1142.624512 msec.
+[1745458470][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:29
+[1745458472][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458472][camera.c][doCamreaAndAstrometry] Camera completed one round in 1650.933504 msec.
+[1745458473][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:32
+[1745458475][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458475][camera.c][doCamreaAndAstrometry] Camera completed one round in 1695.471616 msec.
+[1745458476][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:35
+[1745458478][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458478][camera.c][doCamreaAndAstrometry] Camera completed one round in 1397.403904 msec.
+[1745458479][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:38
+[1745458479][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458479][camera.c][doCamreaAndAstrometry] Camera completed one round in 178.827264 msec.
+[1745458481][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:39
+[1745458483][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458483][camera.c][doCamreaAndAstrometry] Camera completed one round in 2320.135680 msec.
+[1745458484][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:43
+[1745458486][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458486][camera.c][doCamreaAndAstrometry] Camera completed one round in 1298.534400 msec.
+[1745458487][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:46
+[1745458489][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458489][camera.c][doCamreaAndAstrometry] Camera completed one round in 1720.701440 msec.
+[1745458490][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:49
+[1745458490][astrometry.c][lostInSpace] Astrometry solved in 46.282752 msec.
+[1745458490][camera.c][doCamreaAndAstrometry] Camera completed one round in 46.533120 msec.
+[1745458492][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:50
+[1745458494][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458494][camera.c][doCamreaAndAstrometry] Camera completed one round in 1917.958400 msec.
+[1745458495][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:54
+[1745458497][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458497][camera.c][doCamreaAndAstrometry] Camera completed one round in 1702.380544 msec.
+[1745458498][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:57
+[1745458498][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458498][camera.c][doCamreaAndAstrometry] Camera completed one round in 237.765888 msec.
+[1745458500][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:34:58
+[1745458500][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458500][camera.c][doCamreaAndAstrometry] Camera completed one round in 30.804992 msec.
+[1745458501][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:00
+[1745458501][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458501][camera.c][doCamreaAndAstrometry] Camera completed one round in 28.482304 msec.
+[1745458503][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:01
+[1745458504][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458504][camera.c][doCamreaAndAstrometry] Camera completed one round in 1268.588800 msec.
+[1745458505][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:04
+[1745458505][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458505][camera.c][doCamreaAndAstrometry] Camera completed one round in 5.443584 msec.
+[1745458507][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:05
+[1745458507][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458507][camera.c][doCamreaAndAstrometry] Camera completed one round in 406.317824 msec.
+[1745458509][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:07
+[1745458510][astrometry.c][lostInSpace] Astrometry solved in 1044.671488 msec.
+[1745458510][camera.c][doCamreaAndAstrometry] Camera completed one round in 1044.904192 msec.
+[1745458511][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:10
+[1745458511][astrometry.c][lostInSpace] Astrometry solved in 71.708160 msec.
+[1745458511][camera.c][doCamreaAndAstrometry] Camera completed one round in 71.953152 msec.
+[1745458513][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:11
+[1745458513][astrometry.c][lostInSpace] Astrometry solved in 89.156096 msec.
+[1745458513][camera.c][doCamreaAndAstrometry] Camera completed one round in 89.556736 msec.
+[1745458514][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:13
+[1745458514][astrometry.c][lostInSpace] Astrometry solved in 83.500800 msec.
+[1745458514][camera.c][doCamreaAndAstrometry] Camera completed one round in 83.769088 msec.
+[1745458516][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:14
+[1745458516][astrometry.c][lostInSpace] Astrometry solved in 60.255488 msec.
+[1745458516][camera.c][doCamreaAndAstrometry] Camera completed one round in 60.526336 msec.
+[1745458517][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:16
+[1745458517][astrometry.c][lostInSpace] Astrometry solved in 156.830720 msec.
+[1745458517][camera.c][doCamreaAndAstrometry] Camera completed one round in 157.095424 msec.
+[1745458519][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:17
+[1745458519][astrometry.c][lostInSpace] Astrometry solved in 67.165184 msec.
+[1745458519][camera.c][doCamreaAndAstrometry] Camera completed one round in 67.395072 msec.
+[1745458520][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:19
+[1745458520][astrometry.c][lostInSpace] Astrometry solved in 163.578880 msec.
+[1745458520][camera.c][doCamreaAndAstrometry] Camera completed one round in 163.815936 msec.
+[1745458522][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:20
+[1745458522][astrometry.c][lostInSpace] Astrometry solved in 132.307968 msec.
+[1745458522][camera.c][doCamreaAndAstrometry] Camera completed one round in 132.542720 msec.
+[1745458523][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:22
+[1745458523][astrometry.c][lostInSpace] Astrometry solved in 84.708608 msec.
+[1745458523][camera.c][doCamreaAndAstrometry] Camera completed one round in 84.927232 msec.
+[1745458525][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:23
+[1745458525][astrometry.c][lostInSpace] Astrometry solved in 95.431168 msec.
+[1745458525][camera.c][doCamreaAndAstrometry] Camera completed one round in 95.675392 msec.
+[1745458526][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:25
+[1745458526][astrometry.c][lostInSpace] Astrometry solved in 92.075264 msec.
+[1745458526][camera.c][doCamreaAndAstrometry] Camera completed one round in 92.327680 msec.
+[1745458528][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:26
+[1745458528][astrometry.c][lostInSpace] Astrometry solved in 101.140224 msec.
+[1745458528][camera.c][doCamreaAndAstrometry] Camera completed one round in 101.389056 msec.
+[1745458529][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:28
+[1745458529][astrometry.c][lostInSpace] Astrometry solved in 88.515072 msec.
+[1745458529][camera.c][doCamreaAndAstrometry] Camera completed one round in 88.738048 msec.
+[1745458531][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:30
+[1745458531][astrometry.c][lostInSpace] Astrometry solved in 94.254848 msec.
+[1745458531][camera.c][doCamreaAndAstrometry] Camera completed one round in 94.585600 msec.
+[1745458532][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:31
+[1745458533][astrometry.c][lostInSpace] Astrometry solved in 97.428992 msec.
+[1745458533][camera.c][doCamreaAndAstrometry] Camera completed one round in 97.677824 msec.
+[1745458534][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:33
+[1745458534][astrometry.c][lostInSpace] Astrometry solved in 155.492864 msec.
+[1745458534][camera.c][doCamreaAndAstrometry] Camera completed one round in 155.800576 msec.
+[1745458536][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:34
+[1745458536][astrometry.c][lostInSpace] Astrometry solved in 93.182720 msec.
+[1745458536][camera.c][doCamreaAndAstrometry] Camera completed one round in 93.453312 msec.
+[1745458537][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:36
+[1745458538][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458538][camera.c][doCamreaAndAstrometry] Camera completed one round in 693.052160 msec.
+[1745458539][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:38
+[1745458541][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458541][camera.c][doCamreaAndAstrometry] Camera completed one round in 1305.440512 msec.
+[1745458542][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:41
+[1745458543][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458543][camera.c][doCamreaAndAstrometry] Camera completed one round in 803.906560 msec.
+[1745458544][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:43
+[1745458544][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458544][camera.c][doCamreaAndAstrometry] Camera completed one round in 48.465408 msec.
+[1745458546][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:44
+[1745458546][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458546][camera.c][doCamreaAndAstrometry] Camera completed one round in 223.219968 msec.
+[1745458547][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:46
+[1745458549][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458549][camera.c][doCamreaAndAstrometry] Camera completed one round in 1384.661504 msec.
+[1745458550][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:49
+[1745458551][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458551][camera.c][doCamreaAndAstrometry] Camera completed one round in 1065.945088 msec.
+[1745458553][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:51
+[1745458554][astrometry.c][lostInSpace] Astrometry solved in 1883.713280 msec.
+[1745458554][camera.c][doCamreaAndAstrometry] Camera completed one round in 1883.943424 msec.
+[1745458556][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:54
+[1745458558][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458558][camera.c][doCamreaAndAstrometry] Camera completed one round in 1684.896768 msec.
+[1745458559][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:35:58
+[1745458561][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458561][camera.c][doCamreaAndAstrometry] Camera completed one round in 1693.736448 msec.
+[1745458562][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:01
+[1745458563][astrometry.c][lostInSpace] Astrometry solved in 1076.796672 msec.
+[1745458563][camera.c][doCamreaAndAstrometry] Camera completed one round in 1077.020416 msec.
+[1745458565][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:03
+[1745458566][astrometry.c][lostInSpace] Astrometry solved in 1021.794816 msec.
+[1745458566][camera.c][doCamreaAndAstrometry] Camera completed one round in 1022.030592 msec.
+[1745458567][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:06
+[1745458568][astrometry.c][lostInSpace] Astrometry solved in 1299.022336 msec.
+[1745458568][camera.c][doCamreaAndAstrometry] Camera completed one round in 1299.272192 msec.
+[1745458570][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:08
+[1745458571][astrometry.c][lostInSpace] Astrometry solved in 1274.262784 msec.
+[1745458571][camera.c][doCamreaAndAstrometry] Camera completed one round in 1274.503936 msec.
+[1745458573][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:11
+[1745458574][astrometry.c][lostInSpace] Astrometry solved in 1684.347648 msec.
+[1745458574][camera.c][doCamreaAndAstrometry] Camera completed one round in 1684.617728 msec.
+[1745458576][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:14
+[1745458577][astrometry.c][lostInSpace] Astrometry solved in 1303.131904 msec.
+[1745458577][camera.c][doCamreaAndAstrometry] Camera completed one round in 1303.380992 msec.
+[1745458578][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:17
+[1745458580][astrometry.c][lostInSpace] Astrometry solved in 1272.051712 msec.
+[1745458580][camera.c][doCamreaAndAstrometry] Camera completed one round in 1272.369152 msec.
+[1745458581][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:20
+[1745458583][astrometry.c][lostInSpace] Astrometry solved in 1576.532736 msec.
+[1745458583][camera.c][doCamreaAndAstrometry] Camera completed one round in 1576.766208 msec.
+[1745458584][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:23
+[1745458585][astrometry.c][lostInSpace] Astrometry solved in 970.305536 msec.
+[1745458585][camera.c][doCamreaAndAstrometry] Camera completed one round in 970.562560 msec.
+[1745458586][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:25
+[1745458587][astrometry.c][lostInSpace] Astrometry solved in 971.944960 msec.
+[1745458587][camera.c][doCamreaAndAstrometry] Camera completed one round in 972.194048 msec.
+[1745458589][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:27
+[1745458590][astrometry.c][lostInSpace] Astrometry solved in 942.332928 msec.
+[1745458590][camera.c][doCamreaAndAstrometry] Camera completed one round in 942.606848 msec.
+[1745458591][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:30
+[1745458592][astrometry.c][lostInSpace] Astrometry solved in 945.873408 msec.
+[1745458592][camera.c][doCamreaAndAstrometry] Camera completed one round in 946.119424 msec.
+[1745458594][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:32
+[1745458595][astrometry.c][lostInSpace] Astrometry solved in 919.603968 msec.
+[1745458595][camera.c][doCamreaAndAstrometry] Camera completed one round in 919.873536 msec.
+[1745458596][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:35
+[1745458597][astrometry.c][lostInSpace] Astrometry solved in 910.636800 msec.
+[1745458597][camera.c][doCamreaAndAstrometry] Camera completed one round in 910.878976 msec.
+[1745458598][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:37
+[1745458599][astrometry.c][lostInSpace] Astrometry solved in 928.542720 msec.
+[1745458599][camera.c][doCamreaAndAstrometry] Camera completed one round in 928.786432 msec.
+[1745458601][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:39
+[1745458602][astrometry.c][lostInSpace] Astrometry solved in 1260.569600 msec.
+[1745458602][camera.c][doCamreaAndAstrometry] Camera completed one round in 1260.815616 msec.
+[1745458603][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:42
+[1745458604][astrometry.c][lostInSpace] Astrometry solved in 679.564032 msec.
+[1745458604][camera.c][doCamreaAndAstrometry] Camera completed one round in 679.841280 msec.
+[1745458605][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:44
+[1745458606][astrometry.c][lostInSpace] Astrometry solved in 937.240320 msec.
+[1745458606][camera.c][doCamreaAndAstrometry] Camera completed one round in 937.533696 msec.
+[1745458608][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:46
+[1745458608][astrometry.c][lostInSpace] Astrometry solved in 461.336576 msec.
+[1745458608][camera.c][doCamreaAndAstrometry] Camera completed one round in 461.576192 msec.
+[1745458610][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:48
+[1745458611][astrometry.c][lostInSpace] Astrometry solved in 1363.739136 msec.
+[1745458611][camera.c][doCamreaAndAstrometry] Camera completed one round in 1363.996160 msec.
+[1745458612][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:51
+[1745458614][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458614][camera.c][doCamreaAndAstrometry] Camera completed one round in 1229.399808 msec.
+[1745458615][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:54
+[1745458616][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458616][camera.c][doCamreaAndAstrometry] Camera completed one round in 1235.469568 msec.
+[1745458618][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:56
+[1745458618][astrometry.c][lostInSpace] Astrometry solved in 627.945472 msec.
+[1745458618][camera.c][doCamreaAndAstrometry] Camera completed one round in 628.180992 msec.
+[1745458620][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:36:58
+[1745458621][astrometry.c][lostInSpace] Astrometry solved in 930.416128 msec.
+[1745458621][camera.c][doCamreaAndAstrometry] Camera completed one round in 930.988032 msec.
+[1745458622][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:01
+[1745458623][astrometry.c][lostInSpace] Astrometry solved in 918.912000 msec.
+[1745458623][camera.c][doCamreaAndAstrometry] Camera completed one round in 919.139584 msec.
+[1745458625][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:03
+[1745458626][astrometry.c][lostInSpace] Astrometry solved in 1261.192960 msec.
+[1745458626][camera.c][doCamreaAndAstrometry] Camera completed one round in 1261.431040 msec.
+[1745458627][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:06
+[1745458628][astrometry.c][lostInSpace] Astrometry solved in 630.304768 msec.
+[1745458628][camera.c][doCamreaAndAstrometry] Camera completed one round in 630.569728 msec.
+[1745458629][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:08
+[1745458631][astrometry.c][lostInSpace] Astrometry solved in 1289.656320 msec.
+[1745458631][camera.c][doCamreaAndAstrometry] Camera completed one round in 1289.934336 msec.
+[1745458632][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:11
+[1745458633][astrometry.c][lostInSpace] Astrometry solved in 727.217920 msec.
+[1745458633][camera.c][doCamreaAndAstrometry] Camera completed one round in 727.461888 msec.
+[1745458634][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:13
+[1745458635][astrometry.c][lostInSpace] Astrometry solved in 637.039360 msec.
+[1745458635][camera.c][doCamreaAndAstrometry] Camera completed one round in 637.286400 msec.
+[1745458636][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:15
+[1745458638][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458638][camera.c][doCamreaAndAstrometry] Camera completed one round in 1647.734272 msec.
+[1745458639][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:18
+[1745458640][astrometry.c][lostInSpace] Astrometry solved in 957.078784 msec.
+[1745458640][camera.c][doCamreaAndAstrometry] Camera completed one round in 957.307392 msec.
+[1745458642][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:20
+[1745458642][astrometry.c][lostInSpace] Astrometry solved in 425.661440 msec.
+[1745458642][camera.c][doCamreaAndAstrometry] Camera completed one round in 425.970176 msec.
+[1745458643][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:22
+[1745458644][astrometry.c][lostInSpace] Astrometry solved in 634.331136 msec.
+[1745458644][camera.c][doCamreaAndAstrometry] Camera completed one round in 634.556672 msec.
+[1745458645][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:24
+[1745458647][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458647][camera.c][doCamreaAndAstrometry] Camera completed one round in 1229.987072 msec.
+[1745458648][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:27
+[1745458649][astrometry.c][lostInSpace] Astrometry solved in 986.217216 msec.
+[1745458649][camera.c][doCamreaAndAstrometry] Camera completed one round in 986.445312 msec.
+[1745458651][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:29
+[1745458652][astrometry.c][lostInSpace] Astrometry solved in 1280.414464 msec.
+[1745458652][camera.c][doCamreaAndAstrometry] Camera completed one round in 1280.654336 msec.
+[1745458653][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:32
+[1745458655][astrometry.c][lostInSpace] Astrometry solved in 1339.101696 msec.
+[1745458655][camera.c][doCamreaAndAstrometry] Camera completed one round in 1339.351552 msec.
+[1745458656][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:35
+[1745458656][astrometry.c][lostInSpace] Astrometry solved in 448.042496 msec.
+[1745458656][camera.c][doCamreaAndAstrometry] Camera completed one round in 448.273920 msec.
+[1745458658][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:36
+[1745458658][astrometry.c][lostInSpace] Astrometry solved in 637.161728 msec.
+[1745458658][camera.c][doCamreaAndAstrometry] Camera completed one round in 637.435904 msec.
+[1745458660][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:38
+[1745458660][astrometry.c][lostInSpace] Astrometry solved in 629.382400 msec.
+[1745458660][camera.c][doCamreaAndAstrometry] Camera completed one round in 629.620480 msec.
+[1745458662][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:41
+[1745458663][astrometry.c][lostInSpace] Astrometry solved in 1284.069120 msec.
+[1745458663][camera.c][doCamreaAndAstrometry] Camera completed one round in 1284.301568 msec.
+[1745458665][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:43
+[1745458666][astrometry.c][lostInSpace] Astrometry solved in 1015.858176 msec.
+[1745458666][camera.c][doCamreaAndAstrometry] Camera completed one round in 1016.112896 msec.
+[1745458667][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:46
+[1745458668][astrometry.c][lostInSpace] Astrometry solved in 658.780416 msec.
+[1745458668][camera.c][doCamreaAndAstrometry] Camera completed one round in 659.099392 msec.
+[1745458669][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:48
+[1745458671][astrometry.c][lostInSpace] Astrometry solved in 1397.236736 msec.
+[1745458671][camera.c][doCamreaAndAstrometry] Camera completed one round in 1397.489408 msec.
+[1745458672][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:51
+[1745458673][astrometry.c][lostInSpace] Astrometry solved in 1023.578880 msec.
+[1745458673][camera.c][doCamreaAndAstrometry] Camera completed one round in 1023.833088 msec.
+[1745458674][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:53
+[1745458676][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458676][camera.c][doCamreaAndAstrometry] Camera completed one round in 1130.710272 msec.
+[1745458677][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:56
+[1745458678][astrometry.c][lostInSpace] Astrometry solved in 984.387328 msec.
+[1745458678][camera.c][doCamreaAndAstrometry] Camera completed one round in 984.663552 msec.
+[1745458679][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:37:58
+[1745458680][astrometry.c][lostInSpace] Astrometry solved in 237.314304 msec.
+[1745458680][camera.c][doCamreaAndAstrometry] Camera completed one round in 237.592320 msec.
+[1745458681][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:00
+[1745458682][astrometry.c][lostInSpace] Astrometry solved in 854.881792 msec.
+[1745458682][camera.c][doCamreaAndAstrometry] Camera completed one round in 855.114752 msec.
+[1745458683][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:02
+[1745458685][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458685][camera.c][doCamreaAndAstrometry] Camera completed one round in 1159.936000 msec.
+[1745458686][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:05
+[1745458688][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458688][camera.c][doCamreaAndAstrometry] Camera completed one round in 1593.985792 msec.
+[1745458689][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:09
+[1745458691][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458691][camera.c][doCamreaAndAstrometry] Camera completed one round in 1731.624704 msec.
+[1745458692][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:12
+[1745458693][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458693][camera.c][doCamreaAndAstrometry] Camera completed one round in 507.531776 msec.
+[1745458694][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:14
+[1745458694][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458694][camera.c][doCamreaAndAstrometry] Camera completed one round in 141.076224 msec.
+[1745458696][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:16
+[1745458696][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458696][camera.c][doCamreaAndAstrometry] Camera completed one round in 282.736128 msec.
+[1745458697][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:17
+[1745458699][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458699][camera.c][doCamreaAndAstrometry] Camera completed one round in 1165.014272 msec.
+[1745458700][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:20
+[1745458702][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458702][camera.c][doCamreaAndAstrometry] Camera completed one round in 1893.337088 msec.
+[1745458703][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:23
+[1745458705][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458705][camera.c][doCamreaAndAstrometry] Camera completed one round in 1511.919360 msec.
+[1745458706][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:26
+[1745458708][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458708][camera.c][doCamreaAndAstrometry] Camera completed one round in 1562.125312 msec.
+[1745458709][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:29
+[1745458711][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458711][camera.c][doCamreaAndAstrometry] Camera completed one round in 1436.704768 msec.
+[1745458712][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:32
+[1745458714][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458714][camera.c][doCamreaAndAstrometry] Camera completed one round in 1511.236608 msec.
+[1745458715][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:35
+[1745458717][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458717][camera.c][doCamreaAndAstrometry] Camera completed one round in 1551.480320 msec.
+[1745458718][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:38
+[1745458720][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458720][camera.c][doCamreaAndAstrometry] Camera completed one round in 1573.808640 msec.
+[1745458721][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:41
+[1745458722][astrometry.c][lostInSpace] Astrometry solved in 1273.372672 msec.
+[1745458722][camera.c][doCamreaAndAstrometry] Camera completed one round in 1273.616128 msec.
+[1745458724][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:44
+[1745458725][astrometry.c][lostInSpace] Astrometry solved in 1672.683520 msec.
+[1745458725][camera.c][doCamreaAndAstrometry] Camera completed one round in 1672.930304 msec.
+[1745458727][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:47
+[1745458729][astrometry.c][lostInSpace] Astrometry solved in 2036.260352 msec.
+[1745458729][camera.c][doCamreaAndAstrometry] Camera completed one round in 2036.520448 msec.
+[1745458730][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:50
+[1745458732][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458732][camera.c][doCamreaAndAstrometry] Camera completed one round in 1465.712384 msec.
+[1745458733][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:53
+[1745458734][astrometry.c][lostInSpace] Astrometry solved in 1141.185280 msec.
+[1745458734][camera.c][doCamreaAndAstrometry] Camera completed one round in 1141.412352 msec.
+[1745458736][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:56
+[1745458737][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458737][camera.c][doCamreaAndAstrometry] Camera completed one round in 1789.128960 msec.
+[1745458739][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:38:59
+[1745458741][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458741][camera.c][doCamreaAndAstrometry] Camera completed one round in 1902.996224 msec.
+[1745458742][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:02
+[1745458743][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458743][camera.c][doCamreaAndAstrometry] Camera completed one round in 1336.495104 msec.
+[1745458745][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:05
+[1745458747][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458747][camera.c][doCamreaAndAstrometry] Camera completed one round in 1859.074816 msec.
+[1745458748][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:08
+[1745458750][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458750][camera.c][doCamreaAndAstrometry] Camera completed one round in 1541.275904 msec.
+[1745458751][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:11
+[1745458753][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458753][camera.c][doCamreaAndAstrometry] Camera completed one round in 1462.555648 msec.
+[1745458754][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:14
+[1745458756][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458756][camera.c][doCamreaAndAstrometry] Camera completed one round in 1495.355904 msec.
+[1745458757][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:17
+[1745458759][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458759][camera.c][doCamreaAndAstrometry] Camera completed one round in 2171.060224 msec.
+[1745458761][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:21
+[1745458763][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458763][camera.c][doCamreaAndAstrometry] Camera completed one round in 2178.611712 msec.
+[1745458764][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:24
+[1745458766][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458766][camera.c][doCamreaAndAstrometry] Camera completed one round in 1526.092288 msec.
+[1745458767][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:27
+[1745458769][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458769][camera.c][doCamreaAndAstrometry] Camera completed one round in 1672.041728 msec.
+[1745458770][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:30
+[1745458772][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458772][camera.c][doCamreaAndAstrometry] Camera completed one round in 1493.318912 msec.
+[1745458773][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:33
+[1745458775][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458775][camera.c][doCamreaAndAstrometry] Camera completed one round in 1351.627264 msec.
+[1745458776][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:36
+[1745458778][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458778][camera.c][doCamreaAndAstrometry] Camera completed one round in 1591.727360 msec.
+[1745458779][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:39
+[1745458781][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458781][camera.c][doCamreaAndAstrometry] Camera completed one round in 1858.544896 msec.
+[1745458782][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:42
+[1745458784][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458784][camera.c][doCamreaAndAstrometry] Camera completed one round in 1364.893184 msec.
+[1745458785][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:45
+[1745458787][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458787][camera.c][doCamreaAndAstrometry] Camera completed one round in 1655.133184 msec.
+[1745458788][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:48
+[1745458790][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458790][camera.c][doCamreaAndAstrometry] Camera completed one round in 1627.065600 msec.
+[1745458791][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:51
+[1745458793][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458793][camera.c][doCamreaAndAstrometry] Camera completed one round in 1602.068480 msec.
+[1745458794][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:54
+[1745458796][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458796][camera.c][doCamreaAndAstrometry] Camera completed one round in 1514.452224 msec.
+[1745458797][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:39:57
+[1745458799][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458799][camera.c][doCamreaAndAstrometry] Camera completed one round in 1625.350656 msec.
+[1745458800][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:00
+[1745458802][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458802][camera.c][doCamreaAndAstrometry] Camera completed one round in 1581.538048 msec.
+[1745458803][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:03
+[1745458805][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458805][camera.c][doCamreaAndAstrometry] Camera completed one round in 1469.874944 msec.
+[1745458806][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:06
+[1745458808][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458808][camera.c][doCamreaAndAstrometry] Camera completed one round in 1550.493440 msec.
+[1745458809][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:09
+[1745458810][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458810][camera.c][doCamreaAndAstrometry] Camera completed one round in 1238.547712 msec.
+[1745458812][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:12
+[1745458813][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458813][camera.c][doCamreaAndAstrometry] Camera completed one round in 1380.555008 msec.
+[1745458815][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:15
+[1745458817][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458817][camera.c][doCamreaAndAstrometry] Camera completed one round in 1978.765824 msec.
+[1745458818][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:18
+[1745458819][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458819][camera.c][doCamreaAndAstrometry] Camera completed one round in 1515.138816 msec.
+[1745458821][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:21
+[1745458822][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458822][camera.c][doCamreaAndAstrometry] Camera completed one round in 1562.814464 msec.
+[1745458824][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:24
+[1745458826][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458826][camera.c][doCamreaAndAstrometry] Camera completed one round in 1705.160448 msec.
+[1745458827][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:27
+[1745458829][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458829][camera.c][doCamreaAndAstrometry] Camera completed one round in 1522.422016 msec.
+[1745458830][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:30
+[1745458832][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458832][camera.c][doCamreaAndAstrometry] Camera completed one round in 1549.656576 msec.
+[1745458833][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:33
+[1745458835][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458835][camera.c][doCamreaAndAstrometry] Camera completed one round in 1803.589632 msec.
+[1745458836][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:36
+[1745458838][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458838][camera.c][doCamreaAndAstrometry] Camera completed one round in 1546.424576 msec.
+[1745458839][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:39
+[1745458841][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458841][camera.c][doCamreaAndAstrometry] Camera completed one round in 1321.585920 msec.
+[1745458842][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:42
+[1745458844][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458844][camera.c][doCamreaAndAstrometry] Camera completed one round in 1521.415424 msec.
+[1745458845][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:45
+[1745458847][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458847][camera.c][doCamreaAndAstrometry] Camera completed one round in 1888.021248 msec.
+[1745458848][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:48
+[1745458850][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458850][camera.c][doCamreaAndAstrometry] Camera completed one round in 1324.240896 msec.
+[1745458851][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:51
+[1745458853][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458853][camera.c][doCamreaAndAstrometry] Camera completed one round in 1732.397568 msec.
+[1745458854][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:54
+[1745458856][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458856][camera.c][doCamreaAndAstrometry] Camera completed one round in 1594.588672 msec.
+[1745458857][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:40:57
+[1745458859][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458859][camera.c][doCamreaAndAstrometry] Camera completed one round in 1511.499520 msec.
+[1745458860][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:00
+[1745458862][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458862][camera.c][doCamreaAndAstrometry] Camera completed one round in 1578.160896 msec.
+[1745458863][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:03
+[1745458865][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458865][camera.c][doCamreaAndAstrometry] Camera completed one round in 1596.818176 msec.
+[1745458866][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:06
+[1745458868][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458868][camera.c][doCamreaAndAstrometry] Camera completed one round in 1578.676224 msec.
+[1745458869][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:09
+[1745458871][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458871][camera.c][doCamreaAndAstrometry] Camera completed one round in 1449.102336 msec.
+[1745458872][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:12
+[1745458874][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458874][camera.c][doCamreaAndAstrometry] Camera completed one round in 1540.633344 msec.
+[1745458875][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:15
+[1745458877][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458877][camera.c][doCamreaAndAstrometry] Camera completed one round in 1510.625792 msec.
+[1745458878][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:18
+[1745458880][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458880][camera.c][doCamreaAndAstrometry] Camera completed one round in 1679.837696 msec.
+[1745458881][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:21
+[1745458883][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458883][camera.c][doCamreaAndAstrometry] Camera completed one round in 1532.617216 msec.
+[1745458884][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:24
+[1745458886][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458886][camera.c][doCamreaAndAstrometry] Camera completed one round in 1489.106944 msec.
+[1745458887][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:27
+[1745458889][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458889][camera.c][doCamreaAndAstrometry] Camera completed one round in 1924.787200 msec.
+[1745458890][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:30
+[1745458892][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458892][camera.c][doCamreaAndAstrometry] Camera completed one round in 1488.771328 msec.
+[1745458893][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:33
+[1745458895][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458895][camera.c][doCamreaAndAstrometry] Camera completed one round in 1517.081344 msec.
+[1745458896][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:36
+[1745458898][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458898][camera.c][doCamreaAndAstrometry] Camera completed one round in 1707.011584 msec.
+[1745458899][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:39
+[1745458901][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458901][camera.c][doCamreaAndAstrometry] Camera completed one round in 1333.011456 msec.
+[1745458902][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:42
+[1745458903][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458903][camera.c][doCamreaAndAstrometry] Camera completed one round in 1254.904320 msec.
+[1745458905][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:45
+[1745458907][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458907][camera.c][doCamreaAndAstrometry] Camera completed one round in 1765.663744 msec.
+[1745458908][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:48
+[1745458910][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458910][camera.c][doCamreaAndAstrometry] Camera completed one round in 1629.061632 msec.
+[1745458911][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:51
+[1745458913][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458913][camera.c][doCamreaAndAstrometry] Camera completed one round in 1521.579008 msec.
+[1745458914][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:54
+[1745458916][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458916][camera.c][doCamreaAndAstrometry] Camera completed one round in 1738.358272 msec.
+[1745458917][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:41:57
+[1745458919][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458919][camera.c][doCamreaAndAstrometry] Camera completed one round in 1582.977024 msec.
+[1745458920][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:00
+[1745458922][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458922][camera.c][doCamreaAndAstrometry] Camera completed one round in 1435.768832 msec.
+[1745458923][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:03
+[1745458925][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458925][camera.c][doCamreaAndAstrometry] Camera completed one round in 1758.272000 msec.
+[1745458926][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:06
+[1745458928][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458928][camera.c][doCamreaAndAstrometry] Camera completed one round in 1348.461312 msec.
+[1745458929][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:09
+[1745458931][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458931][camera.c][doCamreaAndAstrometry] Camera completed one round in 1947.813632 msec.
+[1745458932][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:12
+[1745458934][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458934][camera.c][doCamreaAndAstrometry] Camera completed one round in 1264.922112 msec.
+[1745458935][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:15
+[1745458937][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458937][camera.c][doCamreaAndAstrometry] Camera completed one round in 1753.776384 msec.
+[1745458938][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:18
+[1745458940][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458940][camera.c][doCamreaAndAstrometry] Camera completed one round in 1409.372160 msec.
+[1745458941][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:21
+[1745458943][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458943][camera.c][doCamreaAndAstrometry] Camera completed one round in 1883.682816 msec.
+[1745458944][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:24
+[1745458946][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458946][camera.c][doCamreaAndAstrometry] Camera completed one round in 1279.672064 msec.
+[1745458947][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:27
+[1745458949][astrometry.c][lostInSpace] Astrometry solved in 1669.843712 msec.
+[1745458949][camera.c][doCamreaAndAstrometry] Camera completed one round in 1670.122240 msec.
+[1745458950][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:30
+[1745458952][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458952][camera.c][doCamreaAndAstrometry] Camera completed one round in 1536.205824 msec.
+[1745458953][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:33
+[1745458955][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458955][camera.c][doCamreaAndAstrometry] Camera completed one round in 1896.715520 msec.
+[1745458956][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:36
+[1745458958][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458958][camera.c][doCamreaAndAstrometry] Camera completed one round in 1202.528768 msec.
+[1745458959][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:39
+[1745458961][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458961][camera.c][doCamreaAndAstrometry] Camera completed one round in 1614.369792 msec.
+[1745458962][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:42
+[1745458964][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458964][camera.c][doCamreaAndAstrometry] Camera completed one round in 1670.132992 msec.
+[1745458965][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:45
+[1745458967][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458967][camera.c][doCamreaAndAstrometry] Camera completed one round in 1401.648128 msec.
+[1745458968][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:48
+[1745458970][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458970][camera.c][doCamreaAndAstrometry] Camera completed one round in 1592.365056 msec.
+[1745458971][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:51
+[1745458973][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458973][camera.c][doCamreaAndAstrometry] Camera completed one round in 1659.067136 msec.
+[1745458974][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:54
+[1745458976][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458976][camera.c][doCamreaAndAstrometry] Camera completed one round in 1350.290944 msec.
+[1745458977][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:42:57
+[1745458979][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458979][camera.c][doCamreaAndAstrometry] Camera completed one round in 1554.758144 msec.
+[1745458980][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:00
+[1745458982][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458982][camera.c][doCamreaAndAstrometry] Camera completed one round in 1757.326336 msec.
+[1745458983][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:03
+[1745458985][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458985][camera.c][doCamreaAndAstrometry] Camera completed one round in 1542.242048 msec.
+[1745458986][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:06
+[1745458987][astrometry.c][lostInSpace] Astrometry solved in 1332.271360 msec.
+[1745458987][camera.c][doCamreaAndAstrometry] Camera completed one round in 1332.519936 msec.
+[1745458989][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:09
+[1745458991][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458991][camera.c][doCamreaAndAstrometry] Camera completed one round in 2049.287680 msec.
+[1745458992][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:12
+[1745458994][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458994][camera.c][doCamreaAndAstrometry] Camera completed one round in 1390.317056 msec.
+[1745458995][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:15
+[1745458997][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745458997][camera.c][doCamreaAndAstrometry] Camera completed one round in 1684.235520 msec.
+[1745458998][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:18
+[1745459000][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459000][camera.c][doCamreaAndAstrometry] Camera completed one round in 1570.724352 msec.
+[1745459001][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:21
+[1745459002][astrometry.c][lostInSpace] Astrometry solved in 1114.842624 msec.
+[1745459002][camera.c][doCamreaAndAstrometry] Camera completed one round in 1115.183104 msec.
+[1745459004][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:24
+[1745459005][astrometry.c][lostInSpace] Astrometry solved in 1015.697408 msec.
+[1745459005][camera.c][doCamreaAndAstrometry] Camera completed one round in 1016.029440 msec.
+[1745459006][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:26
+[1745459008][astrometry.c][lostInSpace] Astrometry solved in 1406.036992 msec.
+[1745459008][camera.c][doCamreaAndAstrometry] Camera completed one round in 1406.301440 msec.
+[1745459009][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:29
+[1745459011][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459011][camera.c][doCamreaAndAstrometry] Camera completed one round in 1601.677568 msec.
+[1745459012][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:32
+[1745459014][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459014][camera.c][doCamreaAndAstrometry] Camera completed one round in 1542.393088 msec.
+[1745459015][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:35
+[1745459017][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459017][camera.c][doCamreaAndAstrometry] Camera completed one round in 1790.004224 msec.
+[1745459018][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:38
+[1745459020][astrometry.c][lostInSpace] Astrometry solved in 1302.389504 msec.
+[1745459020][camera.c][doCamreaAndAstrometry] Camera completed one round in 1302.687744 msec.
+[1745459021][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:41
+[1745459023][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459023][camera.c][doCamreaAndAstrometry] Camera completed one round in 1803.936000 msec.
+[1745459024][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:44
+[1745459026][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459026][camera.c][doCamreaAndAstrometry] Camera completed one round in 1289.063936 msec.
+[1745459027][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:47
+[1745459029][astrometry.c][lostInSpace] Astrometry solved in 1790.517504 msec.
+[1745459029][camera.c][doCamreaAndAstrometry] Camera completed one round in 1790.820096 msec.
+[1745459030][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:50
+[1745459032][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459032][camera.c][doCamreaAndAstrometry] Camera completed one round in 1609.759232 msec.
+[1745459033][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:53
+[1745459035][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459035][camera.c][doCamreaAndAstrometry] Camera completed one round in 1473.078272 msec.
+[1745459036][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:43:56
+[1745459038][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459038][camera.c][doCamreaAndAstrometry] Camera completed one round in 2353.989120 msec.
+[1745459040][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:00
+[1745459042][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459042][camera.c][doCamreaAndAstrometry] Camera completed one round in 1794.887936 msec.
+[1745459043][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:03
+[1745459045][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459045][camera.c][doCamreaAndAstrometry] Camera completed one round in 1877.716480 msec.
+[1745459046][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:06
+[1745459049][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459049][camera.c][doCamreaAndAstrometry] Camera completed one round in 2188.184064 msec.
+[1745459050][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:10
+[1745459052][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459052][camera.c][doCamreaAndAstrometry] Camera completed one round in 1696.160256 msec.
+[1745459053][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:13
+[1745459055][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459055][camera.c][doCamreaAndAstrometry] Camera completed one round in 2189.896960 msec.
+[1745459057][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:17
+[1745459059][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459059][camera.c][doCamreaAndAstrometry] Camera completed one round in 2126.848000 msec.
+[1745459060][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:20
+[1745459062][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459062][camera.c][doCamreaAndAstrometry] Camera completed one round in 1470.726144 msec.
+[1745459063][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:23
+[1745459065][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459065][camera.c][doCamreaAndAstrometry] Camera completed one round in 1534.106624 msec.
+[1745459066][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:26
+[1745459068][astrometry.c][lostInSpace] Astrometry solved in 1828.397312 msec.
+[1745459068][camera.c][doCamreaAndAstrometry] Camera completed one round in 1828.671488 msec.
+[1745459069][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:29
+[1745459071][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459071][camera.c][doCamreaAndAstrometry] Camera completed one round in 1173.240320 msec.
+[1745459072][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:32
+[1745459074][astrometry.c][lostInSpace] Astrometry solved in 1692.302848 msec.
+[1745459074][camera.c][doCamreaAndAstrometry] Camera completed one round in 1692.562432 msec.
+[1745459075][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:35
+[1745459077][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459077][camera.c][doCamreaAndAstrometry] Camera completed one round in 2101.816832 msec.
+[1745459079][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:39
+[1745459080][astrometry.c][lostInSpace] Astrometry solved in 1475.670784 msec.
+[1745459080][camera.c][doCamreaAndAstrometry] Camera completed one round in 1475.953920 msec.
+[1745459082][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:42
+[1745459084][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459084][camera.c][doCamreaAndAstrometry] Camera completed one round in 2204.509184 msec.
+[1745459085][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:45
+[1745459087][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459087][camera.c][doCamreaAndAstrometry] Camera completed one round in 1722.621440 msec.
+[1745459088][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:48
+[1745459090][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459090][camera.c][doCamreaAndAstrometry] Camera completed one round in 1241.409280 msec.
+[1745459091][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:51
+[1745459093][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459093][camera.c][doCamreaAndAstrometry] Camera completed one round in 2530.868224 msec.
+[1745459095][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:55
+[1745459097][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459097][camera.c][doCamreaAndAstrometry] Camera completed one round in 1584.113920 msec.
+[1745459098][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:44:58
+[1745459100][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459100][camera.c][doCamreaAndAstrometry] Camera completed one round in 1604.545536 msec.
+[1745459101][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:01
+[1745459102][astrometry.c][lostInSpace] Astrometry solved in 1511.260416 msec.
+[1745459102][camera.c][doCamreaAndAstrometry] Camera completed one round in 1511.524864 msec.
+[1745459104][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:04
+[1745459105][astrometry.c][lostInSpace] Astrometry solved in 1249.504256 msec.
+[1745459105][camera.c][doCamreaAndAstrometry] Camera completed one round in 1249.769216 msec.
+[1745459107][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:07
+[1745459108][astrometry.c][lostInSpace] Astrometry solved in 1264.086784 msec.
+[1745459108][camera.c][doCamreaAndAstrometry] Camera completed one round in 1264.352000 msec.
+[1745459109][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:09
+[1745459111][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459111][camera.c][doCamreaAndAstrometry] Camera completed one round in 1359.111424 msec.
+[1745459112][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:12
+[1745459113][astrometry.c][lostInSpace] Astrometry solved in 1159.588352 msec.
+[1745459113][camera.c][doCamreaAndAstrometry] Camera completed one round in 1159.824128 msec.
+[1745459115][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:15
+[1745459116][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459116][camera.c][doCamreaAndAstrometry] Camera completed one round in 1275.561216 msec.
+[1745459117][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:17
+[1745459119][astrometry.c][lostInSpace] Astrometry solved in 1160.606976 msec.
+[1745459119][camera.c][doCamreaAndAstrometry] Camera completed one round in 1160.855296 msec.
+[1745459120][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:20
+[1745459121][astrometry.c][lostInSpace] Astrometry solved in 1467.010816 msec.
+[1745459121][camera.c][doCamreaAndAstrometry] Camera completed one round in 1467.268608 msec.
+[1745459123][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:23
+[1745459125][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459125][camera.c][doCamreaAndAstrometry] Camera completed one round in 1822.300160 msec.
+[1745459126][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:26
+[1745459128][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459128][camera.c][doCamreaAndAstrometry] Camera completed one round in 1473.841664 msec.
+[1745459129][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:29
+[1745459131][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459131][camera.c][doCamreaAndAstrometry] Camera completed one round in 1603.642624 msec.
+[1745459132][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:32
+[1745459134][astrometry.c][lostInSpace] Astrometry solved in 1814.733568 msec.
+[1745459134][camera.c][doCamreaAndAstrometry] Camera completed one round in 1814.992640 msec.
+[1745459135][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:35
+[1745459137][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459137][camera.c][doCamreaAndAstrometry] Camera completed one round in 1575.495168 msec.
+[1745459138][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:38
+[1745459140][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459140][camera.c][doCamreaAndAstrometry] Camera completed one round in 1241.460480 msec.
+[1745459141][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:41
+[1745459143][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459143][camera.c][doCamreaAndAstrometry] Camera completed one round in 2187.455488 msec.
+[1745459145][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:45
+[1745459147][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459147][camera.c][doCamreaAndAstrometry] Camera completed one round in 2017.056512 msec.
+[1745459148][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:48
+[1745459149][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459149][camera.c][doCamreaAndAstrometry] Camera completed one round in 1531.525120 msec.
+[1745459151][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:51
+[1745459153][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459153][camera.c][doCamreaAndAstrometry] Camera completed one round in 1731.212800 msec.
+[1745459154][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:54
+[1745459156][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459156][camera.c][doCamreaAndAstrometry] Camera completed one round in 1687.957760 msec.
+[1745459157][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:45:57
+[1745459159][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459159][camera.c][doCamreaAndAstrometry] Camera completed one round in 1741.234944 msec.
+[1745459160][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:00
+[1745459162][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459162][camera.c][doCamreaAndAstrometry] Camera completed one round in 1280.700928 msec.
+[1745459163][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:03
+[1745459165][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459165][camera.c][doCamreaAndAstrometry] Camera completed one round in 1619.971072 msec.
+[1745459166][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:06
+[1745459168][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459168][camera.c][doCamreaAndAstrometry] Camera completed one round in 1520.703232 msec.
+[1745459169][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:09
+[1745459171][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459171][camera.c][doCamreaAndAstrometry] Camera completed one round in 1947.885568 msec.
+[1745459172][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:12
+[1745459174][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459174][camera.c][doCamreaAndAstrometry] Camera completed one round in 1405.000704 msec.
+[1745459175][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:15
+[1745459177][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459177][camera.c][doCamreaAndAstrometry] Camera completed one round in 1573.493248 msec.
+[1745459178][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:18
+[1745459180][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459180][camera.c][doCamreaAndAstrometry] Camera completed one round in 1460.490240 msec.
+[1745459181][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:21
+[1745459183][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459183][camera.c][doCamreaAndAstrometry] Camera completed one round in 1721.797376 msec.
+[1745459184][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:24
+[1745459186][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459186][camera.c][doCamreaAndAstrometry] Camera completed one round in 1296.393216 msec.
+[1745459187][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:27
+[1745459189][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459189][camera.c][doCamreaAndAstrometry] Camera completed one round in 1728.111616 msec.
+[1745459190][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:30
+[1745459192][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459192][camera.c][doCamreaAndAstrometry] Camera completed one round in 1662.750720 msec.
+[1745459193][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:33
+[1745459195][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459195][camera.c][doCamreaAndAstrometry] Camera completed one round in 1390.152192 msec.
+[1745459196][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:36
+[1745459198][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459198][camera.c][doCamreaAndAstrometry] Camera completed one round in 1668.745216 msec.
+[1745459199][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:39
+[1745459201][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459201][camera.c][doCamreaAndAstrometry] Camera completed one round in 1561.569024 msec.
+[1745459202][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:42
+[1745459204][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459204][camera.c][doCamreaAndAstrometry] Camera completed one round in 1428.654336 msec.
+[1745459205][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:45
+[1745459207][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459207][camera.c][doCamreaAndAstrometry] Camera completed one round in 2009.487104 msec.
+[1745459208][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:48
+[1745459210][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459210][camera.c][doCamreaAndAstrometry] Camera completed one round in 1171.699456 msec.
+[1745459211][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:51
+[1745459213][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459213][camera.c][doCamreaAndAstrometry] Camera completed one round in 2004.677632 msec.
+[1745459214][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:54
+[1745459216][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459216][camera.c][doCamreaAndAstrometry] Camera completed one round in 1219.848960 msec.
+[1745459217][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:46:57
+[1745459219][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459219][camera.c][doCamreaAndAstrometry] Camera completed one round in 1578.535168 msec.
+[1745459220][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:00
+[1745459222][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459222][camera.c][doCamreaAndAstrometry] Camera completed one round in 1606.600960 msec.
+[1745459223][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:03
+[1745459225][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459225][camera.c][doCamreaAndAstrometry] Camera completed one round in 1482.060032 msec.
+[1745459226][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:06
+[1745459228][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459228][camera.c][doCamreaAndAstrometry] Camera completed one round in 1567.610368 msec.
+[1745459229][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:09
+[1745459230][astrometry.c][lostInSpace] Astrometry solved in 1380.103936 msec.
+[1745459230][camera.c][doCamreaAndAstrometry] Camera completed one round in 1380.375808 msec.
+[1745459232][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:12
+[1745459234][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459234][camera.c][doCamreaAndAstrometry] Camera completed one round in 1788.866048 msec.
+[1745459235][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:15
+[1745459237][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459237][camera.c][doCamreaAndAstrometry] Camera completed one round in 1546.734080 msec.
+[1745459238][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:18
+[1745459240][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459240][camera.c][doCamreaAndAstrometry] Camera completed one round in 1992.340224 msec.
+[1745459241][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:21
+[1745459243][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459243][camera.c][doCamreaAndAstrometry] Camera completed one round in 1171.415040 msec.
+[1745459244][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:24
+[1745459246][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459246][camera.c][doCamreaAndAstrometry] Camera completed one round in 1879.111936 msec.
+[1745459247][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:27
+[1745459249][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459249][camera.c][doCamreaAndAstrometry] Camera completed one round in 1410.670080 msec.
+[1745459250][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:30
+[1745459252][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459252][camera.c][doCamreaAndAstrometry] Camera completed one round in 1706.796032 msec.
+[1745459253][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:33
+[1745459255][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459255][camera.c][doCamreaAndAstrometry] Camera completed one round in 1407.481856 msec.
+[1745459256][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:36
+[1745459258][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459258][camera.c][doCamreaAndAstrometry] Camera completed one round in 1660.424192 msec.
+[1745459259][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:39
+[1745459261][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459261][camera.c][doCamreaAndAstrometry] Camera completed one round in 1616.047360 msec.
+[1745459262][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:42
+[1745459264][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459264][camera.c][doCamreaAndAstrometry] Camera completed one round in 1346.533632 msec.
+[1745459265][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:45
+[1745459267][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459267][camera.c][doCamreaAndAstrometry] Camera completed one round in 1717.332736 msec.
+[1745459268][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:48
+[1745459270][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459270][camera.c][doCamreaAndAstrometry] Camera completed one round in 1738.996736 msec.
+[1745459271][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:51
+[1745459273][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459273][camera.c][doCamreaAndAstrometry] Camera completed one round in 1418.434048 msec.
+[1745459274][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:54
+[1745459276][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459276][camera.c][doCamreaAndAstrometry] Camera completed one round in 1440.589824 msec.
+[1745459277][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:47:57
+[1745459279][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459279][camera.c][doCamreaAndAstrometry] Camera completed one round in 1884.655616 msec.
+[1745459280][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:00
+[1745459282][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459282][camera.c][doCamreaAndAstrometry] Camera completed one round in 1388.502016 msec.
+[1745459283][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:03
+[1745459285][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459285][camera.c][doCamreaAndAstrometry] Camera completed one round in 1674.176000 msec.
+[1745459286][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:06
+[1745459288][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459288][camera.c][doCamreaAndAstrometry] Camera completed one round in 1490.932992 msec.
+[1745459289][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:09
+[1745459291][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459291][camera.c][doCamreaAndAstrometry] Camera completed one round in 1422.726656 msec.
+[1745459292][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:12
+[1745459294][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459294][camera.c][doCamreaAndAstrometry] Camera completed one round in 1870.605056 msec.
+[1745459295][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:15
+[1745459297][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459297][camera.c][doCamreaAndAstrometry] Camera completed one round in 1349.119744 msec.
+[1745459298][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:18
+[1745459300][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459300][camera.c][doCamreaAndAstrometry] Camera completed one round in 1466.246656 msec.
+[1745459301][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:21
+[1745459303][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459303][camera.c][doCamreaAndAstrometry] Camera completed one round in 1667.607808 msec.
+[1745459304][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:24
+[1745459306][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459306][camera.c][doCamreaAndAstrometry] Camera completed one round in 1514.561280 msec.
+[1745459307][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:27
+[1745459309][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459309][camera.c][doCamreaAndAstrometry] Camera completed one round in 1631.379200 msec.
+[1745459310][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:30
+[1745459312][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459312][camera.c][doCamreaAndAstrometry] Camera completed one round in 1677.027328 msec.
+[1745459313][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:32
+[1745459314][astrometry.c][lostInSpace] Astrometry solved in 442.576128 msec.
+[1745459314][camera.c][doCamreaAndAstrometry] Camera completed one round in 442.806528 msec.
+[1745459315][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:34
+[1745459316][astrometry.c][lostInSpace] Astrometry solved in 982.178304 msec.
+[1745459316][camera.c][doCamreaAndAstrometry] Camera completed one round in 982.421760 msec.
+[1745459317][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:36
+[1745459319][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459319][camera.c][doCamreaAndAstrometry] Camera completed one round in 1294.621952 msec.
+[1745459320][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:39
+[1745459322][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459322][camera.c][doCamreaAndAstrometry] Camera completed one round in 1459.954176 msec.
+[1745459323][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:42
+[1745459325][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459325][camera.c][doCamreaAndAstrometry] Camera completed one round in 1586.144256 msec.
+[1745459326][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:45
+[1745459328][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459328][camera.c][doCamreaAndAstrometry] Camera completed one round in 1720.779520 msec.
+[1745459329][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:48
+[1745459331][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459331][camera.c][doCamreaAndAstrometry] Camera completed one round in 1631.980288 msec.
+[1745459332][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:51
+[1745459334][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459334][camera.c][doCamreaAndAstrometry] Camera completed one round in 1315.248640 msec.
+[1745459335][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:54
+[1745459337][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459337][camera.c][doCamreaAndAstrometry] Camera completed one round in 1547.861760 msec.
+[1745459338][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:48:57
+[1745459340][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459340][camera.c][doCamreaAndAstrometry] Camera completed one round in 1713.137920 msec.
+[1745459341][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:00
+[1745459343][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459343][camera.c][doCamreaAndAstrometry] Camera completed one round in 1304.827136 msec.
+[1745459344][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:03
+[1745459346][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459346][camera.c][doCamreaAndAstrometry] Camera completed one round in 1698.505984 msec.
+[1745459347][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:06
+[1745459348][astrometry.c][lostInSpace] Astrometry solved in 1243.522304 msec.
+[1745459348][camera.c][doCamreaAndAstrometry] Camera completed one round in 1243.781632 msec.
+[1745459350][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:08
+[1745459352][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459352][camera.c][doCamreaAndAstrometry] Camera completed one round in 2209.654528 msec.
+[1745459353][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:12
+[1745459355][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459355][camera.c][doCamreaAndAstrometry] Camera completed one round in 1298.971136 msec.
+[1745459356][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:15
+[1745459358][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459358][camera.c][doCamreaAndAstrometry] Camera completed one round in 1690.329600 msec.
+[1745459359][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:18
+[1745459361][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459361][camera.c][doCamreaAndAstrometry] Camera completed one round in 1709.052928 msec.
+[1745459362][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:21
+[1745459362][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459362][camera.c][doCamreaAndAstrometry] Camera completed one round in 0.296960 msec.
+[1745459364][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:22
+[1745459364][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459364][camera.c][doCamreaAndAstrometry] Camera completed one round in 0.271360 msec.
+[1745459365][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:24
+[1745459365][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459365][camera.c][doCamreaAndAstrometry] Camera completed one round in 0.290816 msec.
+[1745459367][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:25
+[1745459367][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459367][camera.c][doCamreaAndAstrometry] Camera completed one round in 0.276736 msec.
+[1745459368][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:27
+[1745459370][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459370][camera.c][doCamreaAndAstrometry] Camera completed one round in 1782.923520 msec.
+[1745459371][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:30
+[1745459373][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459373][camera.c][doCamreaAndAstrometry] Camera completed one round in 1422.490112 msec.
+[1745459374][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:33
+[1745459376][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459376][camera.c][doCamreaAndAstrometry] Camera completed one round in 1796.547840 msec.
+[1745459377][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:36
+[1745459379][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459379][camera.c][doCamreaAndAstrometry] Camera completed one round in 1262.243840 msec.
+[1745459380][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:39
+[1745459382][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459382][camera.c][doCamreaAndAstrometry] Camera completed one round in 1508.501504 msec.
+[1745459383][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:42
+[1745459385][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459385][camera.c][doCamreaAndAstrometry] Camera completed one round in 1839.723520 msec.
+[1745459386][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:45
+[1745459388][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459388][camera.c][doCamreaAndAstrometry] Camera completed one round in 1502.052352 msec.
+[1745459389][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:48
+[1745459391][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459391][camera.c][doCamreaAndAstrometry] Camera completed one round in 2005.436672 msec.
+[1745459393][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:51
+[1745459395][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459395][camera.c][doCamreaAndAstrometry] Camera completed one round in 2365.653760 msec.
+[1745459396][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:55
+[1745459398][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459398][camera.c][doCamreaAndAstrometry] Camera completed one round in 1366.356992 msec.
+[1745459399][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:49:58
+[1745459401][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459401][camera.c][doCamreaAndAstrometry] Camera completed one round in 2055.629056 msec.
+[1745459403][camera.c][doCameraAndAstrometry] Time going into Astrometry.net: Apr 24 01:50:01
+[1745459405][camera.c][doCameraAndAstrometry] Could not solve Astrometry.
+[1745459405][camera.c][doCamreaAndAstrometry] Camera completed one round in 2003.029248 msec.
+[1745459405][bvexcam.c][run_bvexcam] Successfully exited astrometry

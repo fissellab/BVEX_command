@@ -1,0 +1,42 @@
+[1745458192][ec_motor.c][do_motors] Initializing NIC...
+[1745458192][ec_motor.c][do_motors] Initialized enp4s0
+[1745458192][ec_motor.c][find_controller] 1 slave found and configured:[1745458192][ec_motor.c][find_controller] BEL
+[1745458192][ec_motor.c][motor_pdo_init] Configuring PDO Mappings.
+[1745458192][ec_motor.c][mc_readPDOassign] Result from ec_SDOread at index 1c13, wkc = 1, len = 1, rdat = 0004 
+[1745458192][ec_motor.c][mc_readPDOassign] Found idx = 1a00 at wkc = 1, idxloop = 1
+[1745458192][ec_motor.c][mc_readPDOassign] Read SDO subidxloop = 1, wkc = 1, idx = 6656, len = 4
+[1745458192][ec_motor.c][mc_readPDOassign] Appending channel to m_pdo_list = 0x7360b4002400: index = 2240, subindex = 0,offset = 0
+[1745458192][ec_motor.c][mc_readPDOassign] Read SDO subidxloop = 2, wkc = 1, idx = 6656, len = 4
+[1745458192][ec_motor.c][mc_readPDOassign] Appending channel to m_pdo_list = 0x7360b4002410: index = 6069, subindex = 0,offset = 4
+[1745458192][ec_motor.c][mc_readPDOassign] Found idx = 1a01 at wkc = 1, idxloop = 2
+[1745458192][ec_motor.c][mc_readPDOassign] Read SDO subidxloop = 1, wkc = 1, idx = 6657, len = 4
+[1745458192][ec_motor.c][mc_readPDOassign] Appending channel to m_pdo_list = 0x7360b4002420: index = 6063, subindex = 0,offset = 8
+[1745458192][ec_motor.c][mc_readPDOassign] Read SDO subidxloop = 2, wkc = 1, idx = 6657, len = 4
+[1745458192][ec_motor.c][mc_readPDOassign] Appending channel to m_pdo_list = 0x7360b4002430: index = 6040, subindex = 0,offset = 12
+[1745458192][ec_motor.c][mc_readPDOassign] Found idx = 1a02 at wkc = 1, idxloop = 3
+[1745458192][ec_motor.c][mc_readPDOassign] Read SDO subidxloop = 1, wkc = 1, idx = 6658, len = 4
+[1745458192][ec_motor.c][mc_readPDOassign] Appending channel to m_pdo_list = 0x7360b4002440: index = 1002, subindex = 0,offset = 14
+[1745458192][ec_motor.c][mc_readPDOassign] Read SDO subidxloop = 2, wkc = 1, idx = 6658, len = 4
+[1745458192][ec_motor.c][mc_readPDOassign] Appending channel to m_pdo_list = 0x7360b4002450: index = 6041, subindex = 0,offset = 18
+[1745458192][ec_motor.c][mc_readPDOassign] Read SDO subidxloop = 3, wkc = 1, idx = 6658, len = 4
+[1745458192][ec_motor.c][mc_readPDOassign] Appending channel to m_pdo_list = 0x7360b4002460: index = 2202, subindex = 0,offset = 20
+[1745458192][ec_motor.c][mc_readPDOassign] Found idx = 1a03 at wkc = 1, idxloop = 4
+[1745458192][ec_motor.c][mc_readPDOassign] Read SDO subidxloop = 1, wkc = 1, idx = 6659, len = 4
+[1745458192][ec_motor.c][mc_readPDOassign] Appending channel to m_pdo_list = 0x7360b4002470: index = 2183, subindex = 0,offset = 22
+[1745458192][ec_motor.c][mc_readPDOassign] Read SDO subidxloop = 2, wkc = 1, idx = 6659, len = 4
+[1745458192][ec_motor.c][mc_readPDOassign] Appending channel to m_pdo_list = 0x7360b4002480: index = 221c, subindex = 0,offset = 26
+[1745458192][ec_motor.c][mc_readPDOassign] Read SDO subidxloop = 3, wkc = 1, idx = 6659, len = 4
+[1745458192][ec_motor.c][mc_readPDOassign] Appending channel to m_pdo_list = 0x7360b4002490: index = 60ea, subindex = 0,offset = 28
+[1745458194][ec_motor.c][configure_ec_motor] Mapping index variables
+[1745458194][ec_motor.c][map_index_vars] Starting map_index_vars
+[1745458194][ec_motor.c][configure_ec_motor] Setting motor defaults
+[1745458194][ec_motor.c][init_current_pid] Initializing current limit
+[1745458194][ec_motor.c][init_current_pid] Initializing current PID 
+[1745458194][ec_motor.c][init_encoder] Initializing encoder
+[1745458194][ec_motor.c][ec_init_heartbeat] Initializing heartbeat
+[1745458194][ec_motor.c][motor_configure_timing] Successfully configured timing
+[1745458194][ec_motor.c][configure_ec_motor] Setting the EtherCAT devices in operational mode.
+[1745458194][ec_motor.c][motor_set_operational] We have reached the fully operational state
+[1745458194][ec_motor.c][configure_ec_motor] Controller comms OK
+[1745458194][ec_motor.c][configure_ec_motor] Writing the drive state to start current mode.
+[1745459405][ec_motor.c][close_ec_motor] Closing motors
